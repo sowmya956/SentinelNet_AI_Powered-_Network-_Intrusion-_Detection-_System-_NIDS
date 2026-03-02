@@ -1,6 +1,9 @@
-## DDOS_ATTACK_DETECTION
-This project is about the DDOS attack detection using AI and ML which is silently involves in Cyber Security domain too.
-SentinelNet: AI-Powered Network Intrusion Detection System (NIDS)
+## SentinelNet: AI-Powered Network Intrusion Detection System (NIDS)
+# Problem Statement
+The goal of this project is to develop an AI-powered Network Intrusion Detection System (NIDS) capable of
+identifying malicious network trafic and cyber-attacks in real time. By leveraging machine learning techniques, the
+system will classify trafic as normal or suspicious based on historical data. The tool will process network trafic
+data, extract relevant features, train classiication models, and generate alerts for detected anomalies.
 # Milestone 1: Project Initialization, Dataset Acquisition, and Preprocessing
 **1. Project Goals and Expected Outcomes**
 Develop an AI-powered NIDS to detect malicious network traffic.
